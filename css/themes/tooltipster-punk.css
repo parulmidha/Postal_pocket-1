@@ -1,0 +1,19 @@
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900);
+
+.tooltipster-punk {
+	border-radius: 5px; 
+	border-bottom: 3px solid #f71169;
+	background: #2a2a2a;
+	color: #fff;
+}
+.tooltipster-punk .tooltipster-content {
+	width: 300px;
+	font-family: 'Titillium Web';
+	font-size: 15px;
+	letter-spacing: 0.5px;
+	line-height: 16px;
+	padding: 8px 10px;
+}
+.tooltipster-punk .tooltipster-content img{
+	padding: 5px;
+}
